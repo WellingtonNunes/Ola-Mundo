@@ -4,3 +4,5 @@
  Repositório criado durante o curso de Git + GitHub #CursoEmVideo
  
  Esta linha foi adicionada no repositório remoto!!!
+ 
+ Mais uma linha adicionada remotamente
